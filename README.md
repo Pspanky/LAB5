@@ -1,9 +1,1 @@
-# starter express app template
-
-* node with babel
-* expressjs
-* airbnb eslint rules
-
-Procfile set up to run on [heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app)
-
-
+The only thing that I need to talk about here is that I still have the same edit problem from my last lab. I assumed that I didn't need to change this as I successfully transferred the back ednd support of my lab to mongodb stuff. Hope that's ok!
